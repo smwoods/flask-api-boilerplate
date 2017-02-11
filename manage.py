@@ -1,9 +1,8 @@
 #!/usr/bin/env python
+import os
 from flask_script import Manager
 
-from rally.app import app, db
-from rally.models import User
-
+from app.app import app, db
 
 manager = Manager(app)
 
