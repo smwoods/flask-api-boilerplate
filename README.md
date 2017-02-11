@@ -1,1 +1,1 @@
-# RallyPlatform
+# Flask API boilerplate
